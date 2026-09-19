@@ -33,7 +33,7 @@ I'm a developer based in Madrid, Spain, focused on **Data Analytics, ML and DL**
 <div align="center">
 
 <a href="https://github.com/MartinAI100/Proyecto-POO">
-  <img width="60%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=MartinAI100&repo=Proyecto-POO&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8&icon_color=14B8A6" alt="GeoDraw repository card" />
+  <img width="60%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=MartinAI100&repo=Proyecto-POO&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=14B8A6" alt="GeoDraw repository card" />
 </a>
 
 </div>
@@ -56,6 +56,9 @@ A Java desktop application for creating, displaying and saving geometric figures
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -63,11 +66,11 @@ A Java desktop application for creating, displaying and saving geometric figures
 ## GitHub activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MartinAI100&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8&icon_color=14B8A6&rank_icon=github" alt="Martín's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MartinAI100&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8" alt="Most used languages in Martín's public repositories" />
+  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MartinAI100&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=14B8A6&rank_icon=github" alt="Martín's GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MartinAI100&layout=compact&langs_count=6&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" alt="Most used languages in Martín's public repositories" />
 </div>
 
-<img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=MartinAI100&bg_color=00000000&color=94A3B8&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="Martín's GitHub contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=MartinAI100&bg_color=020617&color=94A3B8&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="Martín's GitHub contribution activity graph" />
 
 <p align="center"><sub>Stats reflect public GitHub activity.</sub></p>
 
