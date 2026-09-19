@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/MartinAI100">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,48:6639BA,100:DB61A2&text=Mart%C3%ADn%20J.%20Garc%C3%ADa%20Navarro&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Intelligent%20automation%20%E2%80%A2%20Practical%20AI%20%E2%80%A2%20Useful%20software&descAlignY=60&descSize=17&animation=fadeIn" alt="Martín J. García Navarro — Intelligent automation, practical AI and useful software" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,48:6639BA,100:DB61A2&text=Mart%C3%ADn%20J.%20Garc%C3%ADa%20Navarro&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Data%20analytics%20%E2%80%A2%20Machine%20learning%20%E2%80%A2%20Deep%20learning&descAlignY=60&descSize=17&animation=fadeIn" alt="Martín J. García Navarro — Data analytics, machine learning and deep learning" width="100%" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-jos%C3%A9-garc%C3%ADa-navarro-161761397/)
@@ -11,20 +11,20 @@
 
 ## About me
 
-I'm a developer based in Madrid, Spain, focused on **automation, data and applied AI**. I enjoy turning repetitive workflows into practical tools and building software that is clear, dependable and useful.
+I'm a developer based in Madrid, Spain, focused on **data analytics, machine learning and deep learning**. I enjoy turning raw data into useful insights and building models that solve practical problems.
 
-- 🔭 Currently building **RAG projects** and **automation macros**
+- 🔭 Currently building **machine learning and deep learning projects**
 - 🧠 Working mainly with **Java, Python and SQL**
-- ⚙️ Interested in intelligent automation, retrieval systems and data-driven products
-- 🧩 I like breaking complex problems into simple, maintainable solutions
+- 🔎 Exploring **RAG systems**, predictive models and data-driven products
+- 🧪 Learning by experimenting with datasets, models and evaluation
 
 ## Current focus
 
 | Area | What I'm building |
 | :--- | :--- |
-| **Applied AI** | RAG workflows that retrieve useful context and produce grounded answers |
-| **Automation** | Macros and repeatable processes that reduce manual work |
-| **Software engineering** | Solid foundations with OOP, clean data flows and maintainable code |
+| **Data analytics** | Cleaning, exploring and interpreting data to uncover useful insights |
+| **Machine learning** | Training and evaluating models for real-world problems |
+| **Deep learning** | Exploring neural networks and modern AI architectures |
 
 ## Featured project
 
@@ -38,15 +38,19 @@ I'm a developer based in Madrid, Spain, focused on **automation, data and applie
 
 ### [GeoDraw](https://github.com/MartinAI100/Proyecto-POO)
 
-A Java desktop application for creating, displaying and saving geometric figures on a canvas. Built with **Swing**, object-oriented design and the **MVC pattern**.
+A Java desktop application for creating, displaying and saving geometric figures on a canvas. Built with **Swing** and a clean **MVC architecture**.
 
 - Separate model, view and controller layers
 - Reusable figure classes and drawing logic
 - Local persistence for created figures
 
-## Tech I work with
+## Areas & tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Data_Analytics-6E40C9?style=for-the-badge" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Machine_Learning-DB61A2?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge" alt="Deep Learning" />
+  <br />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
