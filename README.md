@@ -28,15 +28,30 @@ I'm a developer based in Madrid, Spain, focused on **Data Analytics, ML and DL**
 | **Deep learning** | Exploring neural networks and modern AI architectures |
 | **Useful software** | Turning technical ideas into clear and practical tools |
 
-## Featured project
+## Featured projects
 
 <div align="center">
+
+<a href="https://github.com/MartinAI100/Attack-Pattern-Private-Study">
+  <img width="60%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=MartinAI100&repo=Attack-Pattern-Private-Study&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=14B8A6" alt="Attack Pattern Private Study repository card" />
+</a>
+
+<br />
 
 <a href="https://github.com/MartinAI100/Proyecto-POO">
   <img width="60%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=MartinAI100&repo=Proyecto-POO&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=14B8A6" alt="GeoDraw repository card" />
 </a>
 
 </div>
+
+### [Attack Pattern Private Study](https://github.com/MartinAI100/Attack-Pattern-Private-Study)
+
+A scientific study of IoT cybersecurity using **RT-IoT2022**, combining exploratory data analysis, classical and fuzzy clustering, supervised machine learning and explainable AI.
+
+- KDD-XAI methodology for network traffic analysis
+- K-Means, Fuzzy C-Means and supervised classification
+- Model interpretability using SHAP, LIME and ELI5
+- Research paper, reproducible notebook and datasets
 
 ### [GeoDraw](https://github.com/MartinAI100/Proyecto-POO)
 
