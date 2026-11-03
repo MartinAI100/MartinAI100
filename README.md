@@ -1,100 +1,105 @@
-<div align="center">
-
-<a href="https://github.com/MartinAI100">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,48:0F766E,100:22D3EE&text=Mart%C3%ADn%20J.%20Garc%C3%ADa%20Navarro&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Data%20Analytics%20%E2%80%A2%20ML%20%E2%80%A2%20DL%20%E2%80%A2%20Useful%20Software&descAlignY=60&descSize=17&animation=fadeIn" alt="Martín J. García Navarro — Data Analytics, ML, DL and Useful Software" width="100%" />
-</a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-jos%C3%A9-garc%C3%ADa-navarro-161761397/)
-[![GitHub](https://img.shields.io/github/followers/MartinAI100?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/MartinAI100?tab=followers)
-
-</div>
-
-## About me
-
-I'm a developer based in Madrid, Spain, focused on **Data Analytics, ML and DL**. I enjoy turning raw data into useful insights and building software that solves practical problems.
-
-- 🔭 Currently building **machine learning and deep learning projects**
-- 🧠 Working mainly with **Java, Python and SQL**
-- 🔎 Exploring **RAG systems**, predictive models and data-driven products
-- 🧪 Learning by experimenting with datasets, models and evaluation
-- 🌍 Languages: **Spanish and English**
-
-## Current focus
-
-| Area | What I'm building |
-| :--- | :--- |
-| **Data analytics** | Cleaning, exploring and interpreting data to uncover useful insights |
-| **Machine learning** | Training and evaluating models for real-world problems |
-| **Deep learning** | Exploring neural networks and modern AI architectures |
-| **Useful software** | Turning technical ideas into clear and practical tools |
-
-## Featured projects
+![Martín José García Navarro](assets/profile-wave-top.gif)
 
 <div align="center">
 
-<a href="https://github.com/MartinAI100/Attack-Pattern-Private-Study">
-  <img width="60%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=MartinAI100&repo=Attack-Pattern-Private-Study&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=14B8A6" alt="Attack Pattern Private Study repository card" />
-</a>
+<table><tr><td align="center"><a href="https://www.linkedin.com/in/mart%C3%ADn-jos%C3%A9-garc%C3%ADa-navarro-161761397/">LinkedIn</a></td><td align="center"><a href="https://www.linkedin.com/in/mart%C3%ADn-jos%C3%A9-garc%C3%ADa-navarro-161761397/">Let&#x27;s connect</a></td><td align="center"><a href="mailto:mjpj0609@gmail.com">Email</a></td><td align="center"><a href="https://github.com/MartinAI100?tab=followers">Follow</a></td></tr></table>
 
-<br />
-
-<a href="https://github.com/MartinAI100/Proyecto-POO">
-  <img width="60%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=MartinAI100&repo=Proyecto-POO&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=14B8A6" alt="GeoDraw repository card" />
-</a>
+<a href="https://github.com/MartinAI100?tab=repositories">Explore my repositories</a>
 
 </div>
+
+```text
+                                    @@@@#+:.
+                               +:++++:::::. ....
+                            :....:: .::+@+.       ::
+                          ++.        .::::.        ..
+                         #@:::++++#+:::++.  ::::::  ..:
+                         +:.@@@@@@@@@@@@##@#@@@@@@#:  .
+                           :@@@@@@@@@@@@@@@@@@@@@@@:
+                           :@@@@@@@@@@@@@@@@@@@@@@@:
+                         :::@@@@@@@@@@@@@@@@@@@@@@@@:::
+                          @ @%+.    .%@@@%      .,= @@
+                           @                       *@
+                           @@         @@@         ,@
+                            @@@@###%%%%%%%%%%#*#@@@@
+                             @@@@@%%%;=#;#%%%@@@@@@
+                            +;%@@%*,.,@@@%+ .+%@@+.+%@#
+                     @@*+#@%#* :@++@*@@*@@@@;:;#@ ;*#%#*++##@@@
+               @@@@@@#++*#*###  @@#.@@@  @@@@ *@+ +******+++###@@@@@@@
+         @#@@@@####+::+#@@#****  %+@@@@@@,=@@@.   #+++*#@@:::++++++####@+
+        ##+###+++++++:::#@#+**#   @@@@@ @@@*@@@   *++++#+:+++::++++++:++:#
+      #@##:+++++++::##@@###*+*+  @@@@@@  @@@@@@@  =+++++++#@@:+::++++:+::.+
+     @#:::::+++::::::######+:  @@@@@@%.   #@@@@@@%  =+++++#+.::::::+:.: .::+
+    @##+:.. :+::::::::#++++  =@@@@@@@*%: %@@@@@@@@@,  .++##.::::::::: ......++
+   ++:::::.  ::::::::.:+++@@@@@@@@@@@+,   +@@@@@@@@@@@::++..:..:::::      ...:
+   #+:::...  ::::....::###@@@@@@@@*          *@@@@@@@@@@#:..   ....   .......::
+  ++:++++::.   ...:+##@##+@@@@@@=               #@@@@@@@+++++:..    :.::::::::+
+ ++####++::..::+####++++++:@@@#:                ::@@@@@#.:::+++#+:::..:::+++++++
+@@##+::::+:.:####++::::::+:++:                    ::@@@::..:::::+++#++::::::++##
++:::+++##::++++::::::::::::+: :.:               :.. :::.:........:::+++++++::.::
+::+##++:.:+:::......:.. .:::: .                  :.  .... ............::::::++:.
+:+:::::.::.........      .                        .    .      . ..............::
+```
+
+## About Me
+
+I'm a developer based in Madrid, focused on machine learning, deep learning and RAG systems. I work with Python, Java and SQL on data analysis, predictive modelling and practical applications.
+
+Madrid, Spain · Spanish / English
+
+## Selected projects
 
 ### [Attack Pattern Private Study](https://github.com/MartinAI100/Attack-Pattern-Private-Study)
 
-A scientific study of IoT cybersecurity using **RT-IoT2022**, combining exploratory data analysis, classical and fuzzy clustering, supervised machine learning and explainable AI.
+An IoT traffic study using RT-IoT2022: exploring the data, comparing clustering and classification models, and interpreting their predictions.
 
-- KDD-XAI methodology for network traffic analysis
-- K-Means, Fuzzy C-Means and supervised classification
-- Model interpretability using SHAP, LIME and ELI5
-- Research paper, reproducible notebook and datasets
+- PCA, K-Means and Fuzzy C-Means for exploring patterns.
+- SHAP, LIME and ELI5 for model interpretation.
+
+![Study workflow: IoT data, exploration, models and interpretation](assets/design-blue-attack.svg)
+
+Python · scikit-learn · XGBoost · XAI
+
+[Read the study](https://github.com/MartinAI100/Attack-Pattern-Private-Study#readme)
 
 ### [GeoDraw](https://github.com/MartinAI100/Proyecto-POO)
 
-A Java desktop application for creating, displaying and saving geometric figures on a canvas. Built with **Swing** and a clean **MVC architecture**.
+A Java desktop application for creating and saving geometric shapes, with a Swing interface and an MVC architecture.
 
-- Separate model, view and controller layers
-- Reusable figure classes and drawing logic
-- Local persistence for created figures
+- Shape creation and interaction through a desktop interface.
+- Separate model, view and controller, with shape persistence.
 
-## Areas & tools
+![Geometric shapes and the Java Swing MVC structure](assets/design-blue-geodraw.svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Analytics-0F766E?style=for-the-badge" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/ML-0891B2?style=for-the-badge" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/DL-2563EB?style=for-the-badge" alt="Deep Learning" />
-  <br />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+Java · Swing · MVC
 
-## GitHub activity
+[Explore the project](https://github.com/MartinAI100/Proyecto-POO#readme)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MartinAI100&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=14B8A6&rank_icon=github" alt="Martín's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MartinAI100&layout=compact&langs_count=6&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" alt="Most used languages in Martín's public repositories" />
-</div>
+## Tools I use
 
-<img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=MartinAI100&bg_color=020617&color=94A3B8&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="Martín's GitHub contribution activity graph" />
+| Area | Tools |
+| :--- | :--- |
+| Languages | Python · Java · SQL |
+| Data | NumPy · pandas · SciPy |
+| Machine learning | scikit-learn · XGBoost · scikit-fuzzy |
+| Visualisation | Matplotlib · Seaborn · Plotly |
+| Explainability | SHAP · LIME · ELI5 |
+| Workflow | Jupyter · VS Code · Git |
 
-<p align="center"><sub>Stats reflect public GitHub activity.</sub></p>
+## GitHub statistics
 
----
+<!-- STATS:START -->
 
-<div align="center">
+Actualización de estadísticas pendiente
 
-### Let's turn data into something useful.
+<!-- STATS:END -->
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-jos%C3%A9-garc%C3%ADa-navarro-161761397/) · [Explore my repositories](https://github.com/MartinAI100?tab=repositories)
+<!-- ACTIVITY:START -->
 
-</div>
+## Actividad
+
+Actualización pendiente
+
+<!-- ACTIVITY:END -->
+
+![Onda de pie](assets/profile-wave-bottom.gif)
